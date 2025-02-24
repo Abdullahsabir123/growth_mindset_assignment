@@ -10,8 +10,8 @@ st.set_page_config(page_title="Growth", layout="wide")
 st.markdown("""
 <style>
 .stApp {
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #000000;
 }
 </style>
 """, unsafe_allow_html=True)
